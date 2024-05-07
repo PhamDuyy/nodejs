@@ -1,0 +1,11 @@
+{
+  "name": "vite-eslint-and-typescrip",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
